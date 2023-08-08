@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 METHOD:PUBLISH
 VERSION:2.0
-PRODID:-//{{ site.domain }}//ai-deadlines//EN
+PRODID:-//{{ site.domain }}//music-deadlines//EN
 X-PUBLISHED-TTL:PT1H
 {%- for conf in site.data.conferences -%}
 {% if conf.abstract_deadline and conf.abstract_deadline != "TBA" %}
@@ -23,7 +23,7 @@ ORGANIZER:aideadlin.es
 DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
 DTSTART;TZID=Etc/GMT{{ tz }}:{{ conf.deadline | date: "%Y%m%dT%H%M%S" }}
 {% else %}
-ORGANIZER:aideadlin.es
+ORGANIZER:fm.jyunko.cn
 DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
 DTSTART;TZID={{ conf.timezone }}:{{ conf.deadline | date: "%Y%m%dT%H%M%S" }}
 {% endif %}END:VEVENT
