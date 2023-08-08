@@ -1,12 +1,12 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: Music Scheduler Deadlines
+description: Countdowns to Music deadlines
+author: Hsiang Nianian
 
 domain: ""
 baseurl: "https://hsiangnianian.github.io/ai-deadlines/"
 
-twitter_hashtag: machinelearning
-github_username: paperswithcode
+twitter_hashtag: HsiangNianian
+github_username: HsiangNianian
 github_repo: ai-deadlines
 
 markdown: kramdown
