@@ -52,14 +52,17 @@
             <div class="row">
               <div class="meta col-12">
                 <span class="local-timezone-hide">
-                  Deadlines are shown in <span class="local-timezone">America/New_York</span> time.
-                  To view them in conference website timezones, click on them.
+                  截止日期是以 <span class="local-timezone">America/New_York</span> 时间为主的，你可以点击事件查看具体时间。
+                  <br />                  
+                  <small>Deadlines are shown in <span class="local-timezone">America/New_York</span> time.
+                  To view them in Event website timezones, click on them.</small>
                 </span>
               </div>
               <div class="meta col-12">
-                You can optionally export all deadlines to
+                你也可以选择导出所有的截止日期到<a href="https://calendar.google.com/calendar/r?cid={{ site.url }}/fm-deadlines.ics">谷歌日历</a>或者<a href="/fm-deadlines.ics">.ics</a>。
+                <small>You can optionally export all deadlines to
                 <a href="https://calendar.google.com/calendar/r?cid={{ site.url }}/fm-deadlines.ics">Google Calendar</a> or
-                <a href="/fm-deadlines.ics">.ics</a>.
+                <a href="/fm-deadlines.ics">.ics</a>.</small>
               </div>
             </div>
         </div>
@@ -107,14 +110,14 @@
                 </div>
                 {% if conf.note %}
                   <div class="note">
-                      <b>Note: </b>{{conf.note}}
+                      <b>备注(Note): </b>{{conf.note}}
                   </div>
                 {% endif %}
 
               </div>
               <div class="col-12 col-sm-6">
                 <div class="deadline">
-                  <div>Deadline:
+                  <div>截止日期(Deadline):
                     <span class="deadline-time"></span>
                   </div>
                 </div>
@@ -133,9 +136,9 @@
           {% endfor %}
         </div>
         <div id="past_confs">
-          <h1 id="past-events-title">Past Events</h1>
+          <h1 id="past-events-title">过期事件(Past Events)</h1>
           <div id="sort-order-checkbox">
-                <label for="sort-order"><input type="checkbox" id="sort-order" name="sort-order" checked>Most recent first</label>
+                <label for="sort-order"><input type="checkbox" id="sort-order" name="sort-order" checked>倒序(Most recent first)</label>
             </div>
         </div>
       </div>
