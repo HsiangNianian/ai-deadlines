@@ -1,13 +1,13 @@
 ---
-- title: N album
+- title: 未命名新砖
   year: 2025
-  id: nalbum25
+  id: unnamedalbum25
   link: https://fm.jyunko.cn/nalbum/
   deadline: '2025-12-24 23:59:59'
   timezone: UTC-8
-  place: online
+  place: Online
   date: Dec 23-24, 2025
   start: 2025-12-23
   end: 2025-12-24
   sub: Record
-  note: 一张精选集，你可以在<a href='https://fm.jyunko.cn'>这里</a>查看到更多信息。
+  note: 一张未命名的专辑，你可以在<a href='https://fm.jyunko.cn'>fm</a>订阅以关注到最新的消息。
