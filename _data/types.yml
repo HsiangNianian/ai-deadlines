@@ -1,31 +1,16 @@
 ---
-- name: Machine Learning
-  sub: ML
+- name: 单曲专辑(EP/Single)
+  sub: [EP, Single]
   color: "#ffd300"
-- name: Computer Vision
-  sub: CV
+- name: 录音室专辑(Recording)
+  sub: Record
   color: "#deff0a"
-- name: Computer Graphics
-  sub: CG
+- name: 混音版(Remix)
+  sub: Remix
   color: "#0aefff"
-- name: Natural Language Proc
-  sub: NLP
+- name: 现场版(Live)
+  sub: Live
   color: "#147df5"
-- name: Robotics
-  sub: RO
+- name: Demo及其他(Demo&Others)
+  sub: [Demo, Others]
   color: "#0aff99"
-- name: Speech/SigProc
-  sub: SP
-  color: "#580aff"
-- name: Data Mining
-  sub: DM
-  color: "#be0aff"
-- name: Automated Planning
-  sub: AP
-  color: "#a432a8"
-- name: Knowledge Representation
-  sub: KR
-  color: "#32a855"
-- name: Human-Computer Interaction
-  sub: HCI
-  color: "#a83232"
