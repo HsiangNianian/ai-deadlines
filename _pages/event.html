@@ -114,7 +114,7 @@ permalink:  /event/
                 $('#conf-subs').append(sub_element);
               }
               // other
-              $('#conf-note').text("{{conf.note}}");
+              $('#conf-note').html("{{conf.note | safe}}");
               $('#conf-date').text("{{conf.date}}");
               $('#conf-place').text("{{conf.place}}");
               $('#conf-place').attr('href', "https://maps.google.com/?q={{conf.place}}")
