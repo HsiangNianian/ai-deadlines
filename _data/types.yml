@@ -1,6 +1,6 @@
 ---
 - name: 单曲专辑(EP/Single)
-  sub: [EP, Single]
+  sub: EP-Single
   color: "#ffd300"
 - name: 录音室专辑(Recording)
   sub: Record
@@ -12,5 +12,5 @@
   sub: Live
   color: "#147df5"
 - name: Demo及其他(Demo&Others)
-  sub: [Demo, Others]
+  sub: Demo-Others
   color: "#0aff99"
