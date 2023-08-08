@@ -2,8 +2,8 @@ title: Music Scheduler Deadlines
 description: Countdowns to Music deadlines
 author: Hsiang Nianian
 
-domain: ""
-baseurl: "https://hsiangnianian.github.io/ai-deadlines/"
+domain: "fm.jyunko.cn"
+baseurl: "/ddl"
 
 twitter_hashtag: HsiangNianian
 github_username: HsiangNianian
