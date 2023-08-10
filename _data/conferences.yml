@@ -2,7 +2,7 @@
 - title: 未命名新砖
   year: 2025
   id: unnamedalbum25
-  link: https://fm.jyunko.cn/nextalbum/
+  link: https://fm.jyunko.cn/nextalbum.html
   deadline: '2025-12-24 23:59:59'
   timezone: UTC+8
   place: Online
@@ -15,7 +15,7 @@
 - title: 《sequel (余言后续)》
   year: 2023
   id: sequel23
-  link: https://fm.jyunko.cn/sequel/
+  link: https://fm.jyunko.cn/sequel.html
   deadline: '2023-04-29 23:59:59'
   timezone: UTC+8
   place: Online
@@ -28,7 +28,7 @@
 - title: 《Fragments》
   year: 2021
   id: fragments21
-  link: https://fm.jyunko.cn/fragments/
+  link: https://fm.jyunko.cn/fragments.html
   deadline: '2021-10-23 23:59:59'
   timezone: UTC+8
   place: Online
@@ -36,4 +36,4 @@
   start: 2021-10-23
   end: 2021-10-23
   sub: EP-Single
-  note: 单曲专辑，请在<a href='https://fm.jyunko.cn/fragments'>fm/fragments</a>查看。
+  note: 单曲专辑，请在<a href='https://fm.jyunko.cn/fragments.html'>fm/fragments</a>查看。
