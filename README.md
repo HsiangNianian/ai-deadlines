@@ -1,1 +1,1 @@
-https://ddl.fm.jyunko.cn
+https://ddl.jyunko.cn
