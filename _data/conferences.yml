@@ -170,7 +170,7 @@
   
 - title: 200
   year: 2020
-  id: 20020
+  id: wins20
   link: https://fm.jyunko.cn/200.html
   deadline: '2020-01-01 23:59:59'
   timezone: UTC+8
@@ -179,4 +179,4 @@
   start: 2020-01-01
   end: 2020-01-01
   sub: EP
-  note: 包含七首新曲的录音室专辑，与同名叙述<a href="./static/pdf/sequel3.pdf">手稿</a>。
+  note: 专辑。
