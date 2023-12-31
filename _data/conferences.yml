@@ -1,8 +1,8 @@
 ---
 - title: Sequel III
   year: 2025
-  id: sequel2025
-  link: https://fm.jyunko.cn/sequel.html
+  id: sequel25
+  link: https://fm.jyunko.cn/sequel3.html
   deadline: '2025-12-25 23:59:59'
   timezone: UTC+8
   place: Online
@@ -10,8 +10,8 @@
   start: 2025-12-25
   end: 20255-12-25
   sub: Record
-  note: 包含七首新曲的录音室专辑，与同名叙述手稿(<a href="./static/pdf/sequel3.pdf">查看</a>)，请在<a href='https://fm.jyunko.cn'>fm</a>订阅以关注到最新的消息。
-
+  note: 包含七首新曲的录音室专辑，与同名叙述<a href="./static/pdf/sequel3.pdf">手稿</a>。
+  
 - title: Sequel (余言后续) II
   year: 2023
   id: sequel23
